@@ -46,3 +46,9 @@ and the two files will be crossfaded together using the clever work of the pyCro
 
 The docker container has the app folder from this directory mapped to it, so you can just drag the files
 into the demos folder from your computer's desktop and the script is ready to run.
+
+# Regenerating songs
+
+Remove the datafiles in /app/pyCrossfade/pycrossfade\_annotations if you replace the 01.mp3 and 02.mp3 songs.
+By this point you have probably changed the script on your own, but do keep it in mind it caches the answers
+and you'd get the wrong results for subsequent crossfades of the same filename and different songs.
