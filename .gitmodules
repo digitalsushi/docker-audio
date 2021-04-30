@@ -1,0 +1,3 @@
+[submodule "app/pyCrossfade"]
+	path = app/pyCrossfade
+	url = https://github.com/oguzhan-yilmaz/pyCrossfade
