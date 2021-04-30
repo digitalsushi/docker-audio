@@ -5,7 +5,13 @@ as a container.
 
 # Use
 
-Clone this. Have docker installed. 
+Clone this repo, and include submodules, which will grab the above git url.
+
+```
+git clone --recurse-submodules https://github.com/digitalsushi/docker-audio.git
+```
+
+Have docker installed. 
 
 Run 
 
